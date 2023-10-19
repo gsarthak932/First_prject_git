@@ -1,1 +1,2 @@
+git second data inserted
 First git file 
